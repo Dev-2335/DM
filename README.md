@@ -35,7 +35,7 @@ The model is trained on a dataset called `Health_Sleep_Statistics.csv`. The data
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Dev-2335/sleep-quality-predictor.git
+    git clone https://github.com/Dev-2335/Sleep-Quality-Predictor.git
     cd sleep-quality-predictor
     ```
 
